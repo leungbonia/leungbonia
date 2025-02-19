@@ -4,6 +4,10 @@
 - 🌞I look forward to sharing my progress with you all. 
 
 ## Blog posts
+Here are all my [blog post](https://github.com/leungbonia/blog-posts) where I document my journey in becoming a data scientist.
+- [My Study Plan](https://github.com/leungbonia/blog-posts/tree/main/plan)
+- [Resources I used to help me become a data scientist](https://github.com/leungbonia/blog-posts/tree/main/resouces)
+- and many more to come...Stay tuned!🌞
 
 <!--
 **leungbonia/leungbonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
