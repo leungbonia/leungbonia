@@ -1,7 +1,9 @@
 ## Hi there 👋 
-## I am changing career from a decade-old sustainability consultant to become a data scientist. 
-## ChatGPT came up with a study plan for me so I can learn about data science. 
-## I look forward to sharing my progress with you all. 🌞
+- 🔮I am changing career from a decade-old sustainability consultant to become a data scientist. 
+- 💻ChatGPT came up with a study plan for me so I can learn about data science. 
+- 🌞I look forward to sharing my progress with you all. 
+
+##Blog posts
 
 <!--
 **leungbonia/leungbonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
