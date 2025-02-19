@@ -3,7 +3,7 @@
 - 💻ChatGPT came up with a study plan for me so I can learn about data science. 
 - 🌞I look forward to sharing my progress with you all. 
 
-##Blog posts
+## Blog posts
 
 <!--
 **leungbonia/leungbonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
