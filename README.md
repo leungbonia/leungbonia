@@ -8,7 +8,7 @@ Here are all my [blog posts](https://github.com/leungbonia/blog-posts) where I d
 - [My Study Plan](https://github.com/leungbonia/blog-posts/tree/main/plan)
 - [Resources I used to help me become a data scientist](https://github.com/leungbonia/blog-posts/tree/main/resouces)
 
-and many more to come...Stay tuned!🌞
+and many more to come... Stay tuned!🌞
 
 <!--
 **leungbonia/leungbonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
