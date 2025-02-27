@@ -7,6 +7,7 @@
 Here are all my [blog posts](https://github.com/leungbonia/blog-posts) where I document my journey in becoming a data scientist.
 - [My Study Plan](https://github.com/leungbonia/blog-posts/tree/main/plan)
 - [Resources I used to help me become a data scientist](https://github.com/leungbonia/blog-posts/tree/main/resouces)
+- Journal of [Week 1 - Setting things up and Python Basics](https://github.com/leungbonia/blog-posts/blob/main/journal/week1.md)
 
 and many more to come... Stay tuned!🌞
 
