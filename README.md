@@ -9,7 +9,8 @@ Here are all my [blog posts](https://github.com/leungbonia/blog-posts) where I d
 - [Resources I used to help me become a data scientist](https://github.com/leungbonia/blog-posts/tree/main/resouces)
 - Journal of [Week 1 - Setting things up and Python Basics](https://github.com/leungbonia/blog-posts/blob/main/journal/week1.md)
 - Journal of [Week 2 - Pandas and Data visualisation](https://github.com/leungbonia/blog-posts/blob/main/journal/week2.md)
-- Jorunal of [Week 3 - Advanced Pandas, Matplotlib and Seaborn](https://github.com/leungbonia/blog-posts/blob/main/journal/week3.md)
+- Journal of [Week 3 - Advanced Pandas, Matplotlib and Seaborn](journal/week3.md)
+- Journal of [Week 4 - Adanced Data Visualisation and Projects](
 
 and many more to come... Stay tuned!🌞
 
