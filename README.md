@@ -17,6 +17,10 @@ Here are all my [blog posts](https://github.com/leungbonia/blog-posts) where I d
 - Journal of [Week 3 - Advanced Pandas, Matplotlib and Seaborn](https://github.com/leungbonia/blog-posts/blob/main/journal/week3.md)
 - Journal of [Week 4 - Adanced Data Visualisation and Projects](https://github.com/leungbonia/blog-posts/blob/main/journal/week4.md)
 
+## Phase 2 - Data Science Fundamentals💻
+- Journal of [Week 5 - Statistics for Data Science](https://github.com/leungbonia/blog-posts/blob/main/journal/week5.md)
+
+
 and many more to come... Stay tuned!🌞
 
 <!--
