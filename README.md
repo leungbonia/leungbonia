@@ -21,7 +21,7 @@ Here are all my [blog posts](https://github.com/leungbonia/blog-posts) where I d
 - Journal of [Week 5 - Statistics for Data Science](https://github.com/leungbonia/blog-posts/blob/main/journal/week5.md)
 - Journal of [Week 6 - Advanced Statistics for Data Science](https://github.com/leungbonia/blog-posts/blob/main/journal/week6.md)
 - Journal of [Week 7 - SQL Basics](https://github.com/leungbonia/blog-posts/blob/main/journal/week7.md)
-
+- Journal of [Week 8 - Advanced SQL](https://github.com/leungbonia/blog-posts/blob/main/journal/week8.md)
 
 and many more to come... Stay tuned!🌞
 
